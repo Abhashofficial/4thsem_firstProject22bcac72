@@ -4,7 +4,7 @@ public class Main {
     int num2 = 10;
     int num3 = 100;
     int sum = num1 + num2+num3;
-    System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+    System.out.println("The sum of two numbers is" + num1 + " and " + num2 + " is: " + sum);
 	System.out.println("dai lai na sika");
   }
 }
